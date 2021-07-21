@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>CS-Go-TapTap</Name>
+  <Name>TapTap</Name>
   <Guid>524b6397-7d31-481b-bed8-4ffb0e0a0167</Guid>
   <MacroEvents>
     <MacroEvent>
