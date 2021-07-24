@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>z3 Slow</Name>
+  <Guid>be49c769-41c5-4c5f-96f4-4639b8637c19</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>0</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>3</Type>
+      <MouseMovement>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>960</X>
+          <Y>540</Y>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>960</X>
+          <Y>541</Y>
+        </MouseMovementEvent>
+      </MouseMovement>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>2</Type>
+      <Delay>3</Delay>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>1</State>
+      </MouseEvent>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>00000000-0000-0000-0000-000000000000</FolderGuid>
+</Macro>

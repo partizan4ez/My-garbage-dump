@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>1# Slide Cancel</Name>
+  <Guid>17bfead5-b7cd-4368-b901-6cb71a868bf6</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>40</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>230</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>40</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>40</Delay>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>00000000-0000-0000-0000-000000000000</FolderGuid>
+</Macro>
